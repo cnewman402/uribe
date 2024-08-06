@@ -1,2 +1,27 @@
-https://cnewman402.github.io/uribe/chrisd.html
+Outlook Users:
 
+ Click File > Options > Mail > Signatures.
+Open your signature Website in the below table.
+
+Press CTRL+A to Select All
+
+Press CTRL+C to Copy All
+
+Paste your signature into the box with CTRL+V.
+When you're done, select Save > OK.
+
+ 
+Office 365 Webmail Login (if you open a web browser for E-Mail):
+
+ Go to Settings. > View all Outlook settings > Compose and reply.
+Under the Email signature, you will see your Signature.
+
+Open your signature Website in the below table.
+
+Press CTRL+A to Select All
+
+Press CTRL+C to Copy All
+
+Paste your signature into the box with CTRL+V.
+
+Select Save when you're done.
